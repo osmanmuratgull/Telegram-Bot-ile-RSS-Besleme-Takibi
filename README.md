@@ -1,9 +1,6 @@
 Telegram Bot ile RSS Beslemesi Takibi
 Telegram botunuzun web sitenizde paylaşılan gönderileri 1 dakika ara ile kontrol ederek Telegram kanalınızda paylaşabilen bir sistemdir.
 
-<p align="center">
-  <img src="https://i.imgur.com/lKGQ56H.png" alt="Telegram Bot ile RSS Beslemesi Takibi" width="600">
-</p>
 <h3 align="center">Telegram Bot ile RSS Beslemesi Takibi</h3>
 <p align="center">
   <strong>Python betiği, bir RSS beslemesini takip eder ve yeni gönderileri Telegram kanalınıza gönderir</strong>
