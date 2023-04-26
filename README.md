@@ -15,7 +15,10 @@ Telegram botunuzun web sitenizde paylaşılan gönderileri 1 dakika ara ile kont
 <br>
 <h2>Nasıl Kullanılır?</h2>
 Gerekli kütüphaneleri yükleyin:
-pip install feedparser telegram
+```pip install feedparser telegram```
+```pip install feedparse```
+```pip install python-telegram-bot```
+```pip install asyncio```
 RSS beslemesi URL'sini rss_url değişkenine girin.
 
 Telegram botunuzun bot tokenını ve chat_id'sini belirleyin.
