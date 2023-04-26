@@ -30,5 +30,6 @@ Betiği çalıştırın!
 RSS beslemesi sürekli olarak takip edilir ve yeni gönderiler keşfedilir.
 Yeni gönderiler, Telegram kanalınıza gönderilir.
 Daha önceden görülmüş gönderiler, bir set içinde takip edilir ve aynı gönderi birden fazla kez gönderilmez.
+
 </h2>Lisans</h2>
 Bu betik, MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
