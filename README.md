@@ -16,9 +16,8 @@
 <br>
 <h2>Nasıl Kullanılır?</h2>
 Gerekli kütüphaneleri yükleyin:
-<code>pip install feedparser telegram</code>
-<code>pip install feedparse</code>
-<code>pip install python-telegram-bot</code>
+<code>pip install feedparser</code>
+<code>pip install telegram</code>
 <code>pip install asyncio</code>
 RSS beslemesi URL'sini rss_url değişkenine girin.
 
